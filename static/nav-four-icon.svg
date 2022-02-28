@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>形状结合</title>
+    <g id="正式稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="新导航样式" transform="translate(-17.000000, -563.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M23.9432224,564.125 L23.9432224,571.074863 L30.8864449,571.074863 C30.8802585,574.901099 27.7746769,578 23.9432224,578 C20.1117679,578 17.0061864,574.901099 17,571.074863 L17,571.074863 L17,571.0625 C17,567.232143 20.1076437,564.125 23.9432224,564.125 L23.9432224,564.125 Z M25.0567776,563 C28.8902942,563 32,566.105082 32,569.9375 L32,569.9375 L32,569.949863 L25.0567776,569.949863 Z" id="形状结合"></path>
+        </g>
+    </g>
+</svg>
